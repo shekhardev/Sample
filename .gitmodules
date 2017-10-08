@@ -1,3 +1,6 @@
 [submodule "spring-flicker"]
 	path = spring-flicker
 	url = https://bitbucket.org/sekhar_rrs/spring-flicker
+[submodule "someeee"]
+	path = someeee
+	url = https://sekhar_rrs@bitbucket.org/sekhar_rrs/someeee.git
