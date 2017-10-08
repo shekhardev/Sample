@@ -1,0 +1,3 @@
+[submodule "spring-flicker"]
+	path = spring-flicker
+	url = https://bitbucket.org/sekhar_rrs/spring-flicker
